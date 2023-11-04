@@ -29,3 +29,5 @@ def getZeroExponent(x):
 
 def getNegativeExponent(x, y):
     return (1/x)**y
+
+# Fractional Exponents <-- not done yet
