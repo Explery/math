@@ -2,9 +2,7 @@ def getAvg(x):
     if len(x) == 0:
         return 0
     else:
-        total = sum(x)
-        average = total/len(x)
-        return average
+        return sum(x)/len(x)
 
 def getExponent(x, y):
     if y == 0:
